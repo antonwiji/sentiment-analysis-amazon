@@ -1,0 +1,1 @@
+run project using streamlit run index.py
