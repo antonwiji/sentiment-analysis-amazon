@@ -7,3 +7,5 @@ matplotlib
 seaborn
 scikit-learn
 wordcloud
+torch 
+torchvision
