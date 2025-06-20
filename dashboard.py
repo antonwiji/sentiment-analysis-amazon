@@ -14,7 +14,6 @@ from wordcloud import WordCloud
 # Konfigurasi Streamlit
 # ------------------------------
 st.set_page_config(layout="wide")
-st.set_option('server.maxUploadSize', 400)
 st.title("📊 Dashboard Analisis Perilaku Pelanggan & Rekomendasi Produk")
 
 st.sidebar.header("🎯 Tujuan Analisis")
